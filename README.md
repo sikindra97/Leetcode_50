@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sikindra97/Leetcode_50/tree/master/1978-employees-whose-manager-left-the-company) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
