@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Database
+|  |
+| ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/sikindra97/Leetcode_50/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
