@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Breadth-First Search
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
