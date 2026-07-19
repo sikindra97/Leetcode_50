@@ -81,14 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sikindra97/Leetcode_50/tree/master/0901-online-stock-span) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
