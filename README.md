@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -149,5 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
