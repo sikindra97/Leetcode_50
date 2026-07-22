@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
