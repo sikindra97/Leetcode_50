@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
+| [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 ## Recursion
 |  |
 | ------- |
