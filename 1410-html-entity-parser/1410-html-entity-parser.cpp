@@ -25,15 +25,16 @@ public:
                     j++;
                 }
 
+
                 if (j < text.size()) {
                     res += ';';
                 }
 
                 if (mp.count(res)) {
                     ans += mp[res];
-                    i = j;          // Skip the whole entity
+                    i = j;          
                 } else {
-                    ans += text[i]; // Not a valid entity
+                    ans += text[i]; 
                 }
             }
             else {
