@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sikindra97/Leetcode_50/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
