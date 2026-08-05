@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sikindra97/Leetcode_50/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sikindra97/Leetcode_50/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sikindra97/Leetcode_50/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sikindra97/Leetcode_50/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sikindra97/Leetcode_50/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
