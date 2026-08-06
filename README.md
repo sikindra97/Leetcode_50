@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
@@ -150,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0039-combination-sum) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sikindra97/Leetcode_50/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
