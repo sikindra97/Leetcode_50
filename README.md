@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/sikindra97/Leetcode_50/tree/master/0901-online-stock-span) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -222,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
