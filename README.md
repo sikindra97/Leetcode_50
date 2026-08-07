@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sikindra97/Leetcode_50/tree/master/0322-coin-change) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Simulation
 |  |
