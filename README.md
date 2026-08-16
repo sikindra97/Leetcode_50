@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sikindra97/Leetcode_50/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sikindra97/Leetcode_50/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
