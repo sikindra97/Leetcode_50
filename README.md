@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
