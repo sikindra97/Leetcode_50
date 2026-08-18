@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [1049-last-stone-weight-ii](https://github.com/sikindra97/Leetcode_50/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [1049-last-stone-weight-ii](https://github.com/sikindra97/Leetcode_50/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sikindra97/Leetcode_50/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
