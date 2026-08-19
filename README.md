@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
+| [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1049-last-stone-weight-ii](https://github.com/sikindra97/Leetcode_50/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
+| [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
