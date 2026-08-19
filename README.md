@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sikindra97/Leetcode_50/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sikindra97/Leetcode_50/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sikindra97/Leetcode_50/tree/master/0038-count-and-say) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sikindra97/Leetcode_50/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
