@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
 ## Recursion
 |  |
 | ------- |
