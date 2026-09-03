@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/1143-longest-common-subsequence) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sikindra97/Leetcode_50/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2810-faulty-keyboard](https://github.com/sikindra97/Leetcode_50/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
