@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sikindra97/Leetcode_50/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/sikindra97/Leetcode_50/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
+| [3903-smallest-stable-index-i](https://github.com/sikindra97/Leetcode_50/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
 |  |
 | ------- |
