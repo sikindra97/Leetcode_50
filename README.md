@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sikindra97/Leetcode_50/tree/master/0876-middle-of-the-linked-list) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Greedy
 |  |
 | ------- |
