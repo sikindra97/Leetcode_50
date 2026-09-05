@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sikindra97/Leetcode_50/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sikindra97/Leetcode_50/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/sikindra97/Leetcode_50/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sikindra97/Leetcode_50/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
