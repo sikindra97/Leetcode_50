@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sikindra97/Leetcode_50/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sikindra97/Leetcode_50/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/sikindra97/Leetcode_50/tree/master/3870-count-commas-in-range) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sikindra97/Leetcode_50/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2810-faulty-keyboard](https://github.com/sikindra97/Leetcode_50/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
