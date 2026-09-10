@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sikindra97/Leetcode_50/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sikindra97/Leetcode_50/tree/master/1441-build-an-array-with-stack-operations) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/sikindra97/Leetcode_50/tree/master/0901-online-stock-span) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sikindra97/Leetcode_50/tree/master/1441-build-an-array-with-stack-operations) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sikindra97/Leetcode_50/tree/master/1441-build-an-array-with-stack-operations) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2810-faulty-keyboard](https://github.com/sikindra97/Leetcode_50/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
