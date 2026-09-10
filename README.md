@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2810-faulty-keyboard](https://github.com/sikindra97/Leetcode_50/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sikindra97/Leetcode_50/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
