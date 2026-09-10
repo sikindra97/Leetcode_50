@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sikindra97/Leetcode_50/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sikindra97/Leetcode_50/tree/master/1441-build-an-array-with-stack-operations) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sikindra97/Leetcode_50/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sikindra97/Leetcode_50/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sikindra97/Leetcode_50/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sikindra97/Leetcode_50/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
