@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
