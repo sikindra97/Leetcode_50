@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sikindra97/Leetcode_50/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3271-hash-divided-string](https://github.com/sikindra97/Leetcode_50/tree/master/3271-hash-divided-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
 ## Recursion
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/sikindra97/Leetcode_50/tree/master/2105-watering-plants-ii) |
 | [2810-faulty-keyboard](https://github.com/sikindra97/Leetcode_50/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3271-hash-divided-string](https://github.com/sikindra97/Leetcode_50/tree/master/3271-hash-divided-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Linked List
 |  |
