@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
 | [1049-last-stone-weight-ii](https://github.com/sikindra97/Leetcode_50/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sikindra97/Leetcode_50/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0867-transpose-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/sikindra97/Leetcode_50/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
