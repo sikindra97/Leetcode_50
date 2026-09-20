@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3271-hash-divided-string](https://github.com/sikindra97/Leetcode_50/tree/master/3271-hash-divided-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sikindra97/Leetcode_50/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3271-hash-divided-string](https://github.com/sikindra97/Leetcode_50/tree/master/3271-hash-divided-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3498-reverse-degree-of-a-string](https://github.com/sikindra97/Leetcode_50/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
