@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sikindra97/Leetcode_50/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/sikindra97/Leetcode_50/tree/master/0178-rank-scores) |
+| [1393-capital-gainloss](https://github.com/sikindra97/Leetcode_50/tree/master/1393-capital-gainloss) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sikindra97/Leetcode_50/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
 |  |
