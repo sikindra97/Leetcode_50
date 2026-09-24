@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/sikindra97/Leetcode_50/tree/master/1484-group-sold-products-by-the-date) |
 | [1965-employees-with-missing-information](https://github.com/sikindra97/Leetcode_50/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sikindra97/Leetcode_50/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3421-find-students-who-improved](https://github.com/sikindra97/Leetcode_50/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/sikindra97/Leetcode_50/tree/master/3436-find-valid-emails) |
 ## Tree
 |  |
