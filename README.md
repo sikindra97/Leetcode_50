@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sikindra97/Leetcode_50/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sikindra97/Leetcode_50/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sikindra97/Leetcode_50/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sikindra97/Leetcode_50/tree/master/3903-smallest-stable-index-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sikindra97/Leetcode_50/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sikindra97/Leetcode_50/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/sikindra97/Leetcode_50/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sikindra97/Leetcode_50/tree/master/3875-construct-uniform-parity-array-i) |
