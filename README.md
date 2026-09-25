@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/sikindra97/Leetcode_50/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sikindra97/Leetcode_50/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
