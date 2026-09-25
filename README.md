@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/sikindra97/Leetcode_50/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sikindra97/Leetcode_50/tree/master/0560-subarray-sum-equals-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sikindra97/Leetcode_50/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0654-maximum-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
