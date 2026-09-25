@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0654-maximum-binary-tree) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sikindra97/Leetcode_50/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sikindra97/Leetcode_50/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/sikindra97/Leetcode_50/tree/master/0205-isomorphic-strings) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Binary Lifting
