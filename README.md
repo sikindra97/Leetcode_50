@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sikindra97/Leetcode_50/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sikindra97/Leetcode_50/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1925-count-square-sum-triples](https://github.com/sikindra97/Leetcode_50/tree/master/1925-count-square-sum-triples) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sikindra97/Leetcode_50/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sikindra97/Leetcode_50/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
+| [1925-count-square-sum-triples](https://github.com/sikindra97/Leetcode_50/tree/master/1925-count-square-sum-triples) |
 ## Trie
 |  |
 | ------- |
