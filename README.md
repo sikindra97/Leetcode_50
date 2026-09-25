@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sikindra97/Leetcode_50/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sikindra97/Leetcode_50/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sikindra97/Leetcode_50/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sikindra97/Leetcode_50/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sikindra97/Leetcode_50/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0070-climbing-stairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sikindra97/Leetcode_50/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0654-maximum-binary-tree) |
