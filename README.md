@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sikindra97/Leetcode_50/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sikindra97/Leetcode_50/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sikindra97/Leetcode_50/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/sikindra97/Leetcode_50/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sikindra97/Leetcode_50/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sikindra97/Leetcode_50/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sikindra97/Leetcode_50/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/sikindra97/Leetcode_50/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sikindra97/Leetcode_50/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sikindra97/Leetcode_50/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sikindra97/Leetcode_50/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sikindra97/Leetcode_50/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
