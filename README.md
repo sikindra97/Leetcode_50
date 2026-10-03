@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sikindra97/Leetcode_50/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sikindra97/Leetcode_50/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sikindra97/Leetcode_50/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/sikindra97/Leetcode_50/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/sikindra97/Leetcode_50/tree/master/0198-house-robber) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/sikindra97/Leetcode_50/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sikindra97/Leetcode_50/tree/master/0560-subarray-sum-equals-k) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sikindra97/Leetcode_50/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0654-maximum-binary-tree) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0124-binary-tree-maximum-path-sum) |
