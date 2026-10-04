@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [1049-last-stone-weight-ii](https://github.com/sikindra97/Leetcode_50/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/1143-longest-common-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sikindra97/Leetcode_50/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0662-maximum-width-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sikindra97/Leetcode_50/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0662-maximum-width-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sikindra97/Leetcode_50/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sikindra97/Leetcode_50/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sikindra97/Leetcode_50/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bracket Sequences
 |  |
