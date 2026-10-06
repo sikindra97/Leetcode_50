@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sikindra97/Leetcode_50/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sikindra97/Leetcode_50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/sikindra97/Leetcode_50/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sikindra97/Leetcode_50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sikindra97/Leetcode_50/tree/master/1441-build-an-array-with-stack-operations) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/sikindra97/Leetcode_50/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sikindra97/Leetcode_50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/1143-longest-common-subsequence) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sikindra97/Leetcode_50/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sikindra97/Leetcode_50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Binary Lifting
 |  |
