@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sikindra97/Leetcode_50/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2942-find-words-containing-character](https://github.com/sikindra97/Leetcode_50/tree/master/2942-find-words-containing-character) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/sikindra97/Leetcode_50/tree/master/0845-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/sikindra97/Leetcode_50/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Trie
 |  |
 | ------- |
