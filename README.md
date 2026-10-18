@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sikindra97/Leetcode_50/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/sikindra97/Leetcode_50/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sikindra97/Leetcode_50/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sikindra97/Leetcode_50/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sikindra97/Leetcode_50/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sikindra97/Leetcode_50/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sikindra97/Leetcode_50/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sikindra97/Leetcode_50/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sikindra97/Leetcode_50/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/sikindra97/Leetcode_50/tree/master/1094-car-pooling) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sikindra97/Leetcode_50/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sikindra97/Leetcode_50/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sikindra97/Leetcode_50/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sikindra97/Leetcode_50/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sikindra97/Leetcode_50/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sikindra97/Leetcode_50/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
