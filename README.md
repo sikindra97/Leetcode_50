@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
 | [1410-html-entity-parser](https://github.com/sikindra97/Leetcode_50/tree/master/1410-html-entity-parser) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sikindra97/Leetcode_50/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sikindra97/Leetcode_50/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/sikindra97/Leetcode_50/tree/master/0819-most-common-word) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sikindra97/Leetcode_50/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sikindra97/Leetcode_50/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sikindra97/Leetcode_50/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sikindra97/Leetcode_50/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sikindra97/Leetcode_50/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sikindra97/Leetcode_50/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sikindra97/Leetcode_50/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sikindra97/Leetcode_50/tree/master/2125-number-of-laser-beams-in-a-bank) |
