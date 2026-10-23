@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/sikindra97/Leetcode_50/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sikindra97/Leetcode_50/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sikindra97/Leetcode_50/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sikindra97/Leetcode_50/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sikindra97/Leetcode_50/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/sikindra97/Leetcode_50/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sikindra97/Leetcode_50/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sikindra97/Leetcode_50/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sikindra97/Leetcode_50/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3271-hash-divided-string](https://github.com/sikindra97/Leetcode_50/tree/master/3271-hash-divided-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sikindra97/Leetcode_50/tree/master/3330-find-the-original-typed-string-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sikindra97/Leetcode_50/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sikindra97/Leetcode_50/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
