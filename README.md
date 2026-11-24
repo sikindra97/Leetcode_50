@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sikindra97/Leetcode_50/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sikindra97/Leetcode_50/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sikindra97/Leetcode_50/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/sikindra97/Leetcode_50/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sikindra97/Leetcode_50/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sikindra97/Leetcode_50/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sikindra97/Leetcode_50/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sikindra97/Leetcode_50/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/sikindra97/Leetcode_50/tree/master/0516-longest-palindromic-subsequence) |
 | [0752-open-the-lock](https://github.com/sikindra97/Leetcode_50/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/sikindra97/Leetcode_50/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/sikindra97/Leetcode_50/tree/master/0796-rotate-string) |
